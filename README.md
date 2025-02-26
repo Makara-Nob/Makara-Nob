@@ -20,12 +20,8 @@ Welcome to my GitHub profile! I'm a passionate backend developer specializing in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-</p>
-
----
-<div align="center">
   <img src="https://media.giphy.com/media/MA4n0unlqEmCNUd1VN/giphy.gif?cid=ecf05e47nr7hl6fu9f2mp0ujwhzdjy2n2m8pq9hf60hj93po&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100" height="100" />
-</div>
+</p>
 
 ---
 
