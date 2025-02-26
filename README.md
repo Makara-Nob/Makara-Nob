@@ -22,5 +22,5 @@ A project to demonstrate JWT-based authentication and authorization using **Spri
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makara-Nob&layout=compact&theme=radical)
 
 ### 📫 Connect with Me
-- LinkedIn: [@your-linkedin](https://www.linkedin.com/in/nob-makara-2a5957250)
-- Email: [email@example.com](makarakara79@gmail.com)
+- LinkedIn: [@nob-makara](https://www.linkedin.com/in/nob-makara-2a5957250)
+- Email: [makarakara79@gmail.com](makarakara79@gmail.com)
