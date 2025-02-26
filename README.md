@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm a passionate backend developer specializing in
 - **Tools**: Maven, Git, Docker
 
 ### 🌟 My Projects
-#### [E-commerce Website](https://github.com/Makara-Nob/ShoppingCart)
-A full-stack e-commerce website built with **Spring Boot** and **React**.
+#### [E-commerce Website](https://github.com/Makara-Nob/Shopping-Cart)
+A backend **e-commerce** website built with **Spring Boot**
 
-#### [Java Spring Security Example](https://github.com/Makara-Nob/MobilePhoneShop)
-A project to demonstrate JWT-based authentication and authorization using **Spring Security**.
+#### [Mobile Phone Shop](https://github.com/Makara-Nob/Mobile-Phone-Shop)
+A backend **mobile phone shop** website built with **Spring Boot**
 
 ### 📊 GitHub Stats
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Makara-Nob&show_icons=true&theme=radical)
