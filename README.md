@@ -1,4 +1,5 @@
 # Hello, I'm Makara👋
+(https://media.giphy.com/media/MA4n0unlqEmCNUd1VN/giphy.gif?cid=ecf05e47nr7hl6fu9f2mp0ujwhzdjy2n2m8pq9hf60hj93po&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
 Welcome to my GitHub profile! I'm a passionate backend developer specializing in **Java** and **Spring Boot**. I’m currently learning **C#** and exploring **React**.
 
