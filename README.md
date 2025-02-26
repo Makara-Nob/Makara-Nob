@@ -35,10 +35,11 @@ A backend **mobile phone shop** website built with **Spring Boot**
 
 ---
 
+<div align="center">
 ## 📊 GitHub Stats
-
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Makara-Nob&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makara-Nob&layout=compact&theme=radical)
+</div>
 
 ---
 
